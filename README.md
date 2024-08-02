@@ -1,6 +1,6 @@
 # 😎 Sobre Mim:
-📚 Atualmente sou estudante de Engenharia de Computação na UTFPR-PB e CEO da empresa <br>
-👨‍💻 Desenvolvedor de Software Backend na empresa OnProcess <br>
+📚 Atualmente sou estudante de Engenharia de Computação na UTFPR-PB e CEO da empresa OnProcess <br>
+👨‍💻 Desenvolvedor de Software Backend e DBA na empresa OnProcess <br>
 
 
 ## 🌐 Rede Social:
@@ -12,7 +12,7 @@
 
 ![Django](https://img.shields.io/badge/Django-green.svg?style=for-the-badge&logo=django&logoColor=white)![Django REST](https://img.shields.io/badge/REST-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![SQL Server](https://img.shields.io/badge/SQL_Server-%23047A7C.svg?style=for-the-badge&logo=&logoColor=white)
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![SQL Server](https://img.shields.io/badge/SQL_Server-%23047A7C.svg?style=for-the-badge&logo=micro&logoColor=white)
 
 
 ![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Insomnia](https://img.shields.io/badge/Insomnia-%237F52FF?style=for-the-badge&logo=insomnia&logoColor=white)![JWT](https://img.shields.io/badge/JWT-purple?style=for-the-badge&logo=JSON%20web%20tokens)
