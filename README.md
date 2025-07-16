@@ -1,5 +1,5 @@
 # 😎 Sobre Mim:
-📚 Atualmente sou estudante de Engenharia de Computação na UTFPR-PB e CEO da empresa OnProcess <br>
+📚 Atualmente, sou mestrando em Inteligência Computacional na UTFPR – Campus Pato Branco e atuo como CEO da empresa OnProcess. <br>
 👨‍💻 Desenvolvedor de Software Backend e DBA na empresa OnProcess <br>
 
 
