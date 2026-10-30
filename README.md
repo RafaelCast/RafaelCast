@@ -1,5 +1,5 @@
 # 😎 Sobre Mim:
-👨‍💻 Desenvolvedor Full Stack Sênior na Hitss, trabalhando em um assistente de IA generativa baseado em agentes que hoje atende ~10 mil usuários <br>
+👨‍💻 Desenvolvedor Full Stack Sênior na Hitss, trabalhando em um assistente de IA generativa baseado em agentes <br>
 🛠️ Python · FastAPI · Django · React · TypeScript · PostgreSQL · AWS · Docker <br>
 🤖 Foco em agentes de IA e LLMs, cursando pós-graduação em Engenharia de IA Aplicada <br>
 📚 Engenheiro de Computação e mestrando em Inteligência Computacional na UTFPR – Campus Pato Branco <br>
