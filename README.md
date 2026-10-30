@@ -1,7 +1,8 @@
 # 😎 Sobre Mim:
-📚 Atualmente, sou mestrando em Inteligência Computacional na UTFPR – Campus Pato Branco e atuo como CEO da empresa OnProcess. <br>
-👨‍💻 Desenvolvedor de Software Backend e DBA na empresa OnProcess <br>
-
+👨‍💻 Desenvolvedor Full Stack Sênior na Hitss, trabalhando em um assistente de IA generativa baseado em agentes que hoje atende ~10 mil usuários <br>
+🛠️ Python · FastAPI · Django · React · TypeScript · PostgreSQL · AWS · Docker <br>
+🤖 Foco em agentes de IA e LLMs, cursando pós-graduação em Engenharia de IA Aplicada <br>
+📚 Engenheiro de Computação e mestrando em Inteligência Computacional na UTFPR – Campus Pato Branco <br>
 
 ## 🌐 Rede Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-de-castilho-xavier) 
